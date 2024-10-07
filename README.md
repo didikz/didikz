@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/didikz" target="blank"><img src="https://img.shields.io/twitter/follow/didikz?logo=twitter&style=for-the-badge" alt="didikz" /></a> </p>
 
-- 🔭 I’m currently working at **Flip**
+- 🔭 I’m currently available to work remotely as full time / contract / part time backend developer
 
 - 🌱 I’m currently learning **Go, Javascript, React**
 
